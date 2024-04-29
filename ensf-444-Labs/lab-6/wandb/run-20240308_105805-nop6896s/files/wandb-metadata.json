@@ -1,0 +1,52 @@
+{
+    "os": "Windows-10-10.0.19045-SP0",
+    "python": "3.11.5",
+    "heartbeatAt": "2024-03-08T17:58:16.243299",
+    "startedAt": "2024-03-08T17:58:05.160858",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/Sudarshan12D/ensf-444.git",
+        "commit": "2682f672f1efa34216089a3bb847e29b68bd9f3e"
+    },
+    "email": "sudarshansudu1@gmail.com",
+    "root": "D:/6th semester/ensf444/ensf-444",
+    "host": "DESKTOP-L7V4GVV",
+    "username": "SUDARSHAN",
+    "executable": "c:\\Users\\SUDARSHAN\\anaconda3\\envs\\ensf-ml\\python.exe",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 1400.0,
+        "min": 0.0,
+        "max": 3000.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1400.0,
+            "min": 0.0,
+            "max": 3000.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 345.57323837280273,
+            "used": 206.9654312133789
+        }
+    },
+    "gpu": "NVIDIA GeForce GTX 1650",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 1650",
+            "memory_total": 4294967296
+        }
+    ],
+    "memory": {
+        "total": 15.362800598144531
+    }
+}

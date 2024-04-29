@@ -1,0 +1,1 @@
+{"Algorithm": "rf", "_timestamp": 1709922749.563477, "_runtime": 40.45298504829407, "_step": 4, "Best F1 Score": 0.7832873742986103, "Best Parameters": {"classifier__max_depth": 10, "classifier__n_estimators": 200}, "Test Accuracy": 0.7832167832167832, "Test F1 Score": 0.7102803738317757, "_wandb": {"runtime": 38}}
